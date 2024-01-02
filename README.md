@@ -33,7 +33,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev" rel="noopener noreferrer" target="_blank">
+  <a href="https://skillicons.dev" rel="noopener" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,css,discord,figma,github,html,js,typescript,nodejs,react,vscode&perline=14" />
   </a>
 </p>
